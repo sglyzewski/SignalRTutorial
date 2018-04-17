@@ -1,7 +1,8 @@
 ﻿using System;
 using System.Web;
 using Microsoft.AspNet.SignalR;
-namespace SignalRChat
+
+namespace SignalRTutorial
 {
     public class ChatHub : Hub
     {
